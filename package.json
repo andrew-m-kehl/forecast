@@ -1,7 +1,7 @@
 {
-  "name": "light-dark-toggle",
+  "homepage": "https://andrew-m-kehl.github.io/forecast/",
+  "name": "forecast",
   "version": "0.1.0",
-  "homepage": "https://andrew-m-kehl.github.io/weather/",
   "private": true,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^7.0.1",
